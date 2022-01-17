@@ -1,0 +1,15 @@
+{
+  "name": "typescript_course",
+  "version": "1.0.0",
+  "description": "Instalar typescript: ```sh npm install -g typescript ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Guilherme Almeida <guisalmeida.dev@gmail.com> (https://guisalmeida.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
